@@ -4,7 +4,7 @@
 de  bs4  importe  BeautifulSoup
 da  hora  importar  dormir
 
-CHAVE_API  =  "5377312818:AAF40mlNhw4NGGxlXcAQabu_4WGD3xbOkVg"
+CHAVE_API  =  "5447888932:AAEUsJY8gBnvEKNCorIDnYQaFExY4_3PT0I"
 
 bot  =  telebot . TeleBot ( CHAVE_API )
 
